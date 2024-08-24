@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JRMILLZ
-- 👀 I’m interested in basketball, lifting weights, and working with different types of programming languages in my free time.
-- 🌱 I’m currently learning Python, Javascript, HTML, and CSS. 
-- 💞️ I’m looking to collaborate on any cool ideas that you need help with
+- 🏀 former college basketball player (D3), 🏋🏽‍♂️ weightlifter
+- 👀 into SQL, BI tools, Python, VBA, and any other programming languages that can help im automation or data analysis.
 - 📫 How to reach me ... you can message me on here
 
 <!---
