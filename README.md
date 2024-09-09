@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JRMILLZ
 - 🏀 former college basketball player (D3), 🏋🏽‍♂️ into weight lifting 
 - 👀 into SQL, BI tools, Python, VBA, and any other programming languages that can help in automation or data analysis.
+      I am familiar with C++, Javascript, CSS and HTMl but have not used regularly for a longtime.
 - 📫 How to reach me ... you can message me on here
 
 <!---
