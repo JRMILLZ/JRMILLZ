@@ -1,7 +1,7 @@
 experience with sql/python for data analysis
 into BI tools and working with large datasets. 
 
-Also familiar with c++/javascript/css/html but dont use as much as i used to in high school. 
+Also familiar with c++/javascript/css/html but dont use as much as i use to in high school. 
 
 
 <!---
